@@ -60,7 +60,7 @@ NEXT_PUBLIC_API_URL=your_api_url
 ## Project Structure
 
 ```
-widforss/
+nextFakeShop/
 ├── src/
 │   ├── app/         # App router pages
 │   ├── components/  # Reusable components
