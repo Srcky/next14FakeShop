@@ -1,4 +1,4 @@
-# Widforss Application
+# NextJS 14 Fake Shop Application
 
 ## Prerequisites
 
